@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-04 09:28-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: WRF_Stuve.py:56
+msgid "línea errónea en namelist:"
+msgstr "A linha errônea o namelist:"
+
+#: WRF_Stuve.py:91
+msgid "Punto WRF | Obs:"
+msgstr "Ponto WRF | Obs:"
+
+#: WRF_Stuve.py:115
+msgid "Archivo WRF:"
+msgstr "Arquivo WRF:"
+
+#: WRF_Stuve.py:130
+msgid "sondeo WRF:"
+msgstr "Radiossondagem WRF:"
+
+#: WRF_Stuve.py:165
+msgid "Altura Superf. WRF:"
+msgstr "Altura da superfície:"
+
+#: WRF_Stuve.py:521
+msgid "Sondeo"
+msgstr "Radiossondagem:"
+
+#: WRF_Stuve.py:530
+#, python-format
+msgid "Nombre del archivo %s no cumple formato de fecha"
+msgstr "O nome do arquivo %s não tem o formato exigido"
+
+#: WRF_Stuve.py:538
+msgid "Procesando archivo "
+msgstr "Processando o arquivo "
+
+#: WRF_Stuve.py:555
+msgid "No hay datos WRF para la fecha"
+msgstr "Não existem dados para a data"

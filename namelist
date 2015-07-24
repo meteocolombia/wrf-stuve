@@ -1,0 +1,18 @@
+# El codigo OMM de la estacion ejm. 80222 (=Bogota)
+codigo = 80222
+# La ruta a los archivos wrfout* en '....'
+ruta = /tmp/ 
+# La fecha (ifecha) y hora del primer radiosondeo observado en hora UTC
+ianho = 2014
+imes = 11 
+idia = 04
+#ihora = 00 o 12
+ihora = 12   
+# La fecha (efecha) y hora del ultimo radiosondeo observado a comparar en hora UTC
+eanho = 2014
+emes = 11
+edia = 06
+#ehora = 00 o 12
+ehora = 12   
+# El intervalo entre radiosondeos:
+dh = 24 
